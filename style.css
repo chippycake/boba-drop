@@ -1,0 +1,21 @@
+body {position: relative; 
+    background:linear-gradient(0deg, rgba(233, 189, 160, 0.7), rgba(233, 189, 160, 0.7)), url(https://static.vecteezy.com/system/resources/previews/043/182/436/non_2x/kawaii-cute-pattern-with-boba-bubble-milk-tea-on-white-background-vector.jpg);
+}
+body::before {background-color: rgba(233,189,160,.5); position: absolute}
+h3{text-align: center; font-size: 40px; font-family: Verdana;}
+h1{text-align: center; font-size: 60px; position: relative; top: -10px}
+.ame1 { background-color: white;}
+.nme2 { background-color: white; height: 30px}
+.ame3 { background-color: white;}
+.ame4 { background-color: white;}
+#bob {padding: 50px;  margin: 0; border: 0}
+#hello {background-color: rgba(210,154,117,1); padding: 0; margin: 0; position: relative; 
+    top: -10px; width: 1388px; left: -29px; height: 150px; border-bottom-style: solid;}
+img {width: 300px; height: 300px; border-radius: 70px; border-style: solid; box-sizing: border-box}
+
+.milk {float: left; margin: 14px; margin-bottom: 50px;}
+.fruit {float: left; margin: 12px; margin-bottom: 30px;}
+.smoothie {float: left; margin: 12px; margin-bottom: 50px;}
+.coffee {float: left; margin: 17px; margin-bottom: 50px;}
+.oof {margin-top: 30px}
+img:hover {border-width: 5px}
